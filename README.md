@@ -5,59 +5,59 @@ This report focuses on the analysis of bank loans, categorizing them as Good Loa
 This report provides an in-depth analysis of bank loans, focusing on categorizing them into Good Loans and Bad Loans, as well as examining the Debt-to-Income (DTI) ratio in relation to the sanctioned and repayment amounts. The analysis is conducted using SQL for data processing and Power BI for visualization.
 
 **Tools Used:**
-MS EXCEL
-MS SQL SERVER- 19.0
-SQL SERVER MANAGEMENT STUDIO 
-POWER BI DEKSTOP
-POWER BI: JUNE 2023 Version 
+- **MS Excel**
+- **MS SQL Server - 19.0**
+- **SQL Server Management Studio**
+- **Power BI Desktop**
 
-**SQL Data Processing:**
 
-Creating Database: Set up a database to store and manage loan data.
-Creating Table: Define tables to organize loan information, borrower details, and repayment records.
-Select: Retrieve specific data from tables for analysis.
-Datename: Extract the name of a part of a date (e.g., month name).
-Datepart: Extract parts of a date (e.g., year, month, day).
-Cast: Convert data from one type to another (e.g., string to date).
-Decimal: Handle precise numeric values, crucial for financial data.
-Month: Extract the month part from a date.
-Hour: Extract the hour part from a timestamp.
-Quarter: Determine the quarter of the year from a date.
-Day: Extract the day part from a date.
-Group By: Aggregate data based on specified columns.
-Order By: Sort data in ascending or descending order.
-Limit: Restrict the number of records returned by a query.
-Count: Count the number of rows in a dataset.
-Distinct: Select unique values from a dataset.
-CTE (Common Table Expressions): Simplify complex queries and improve readability.
-Partition: Divide result sets into partitions to perform calculations on each subset.
+- **Creating Database**: Set up a database to store and manage loan data.
+- **Creating Table**: Define tables to organize loan information, borrower details, and repayment records.
+- **Select**: Retrieve specific data from tables for analysis.
+- **Datename**: Extract the name of a part of a date (e.g., month name).
+- **Datepart**: Extract parts of a date (e.g., year, month, day).
+- **Cast**: Convert data from one type to another (e.g., string to date).
+- **Decimal**: Handle precise numeric values, crucial for financial data.
+- **Month**: Extract the month part from a date.
+- **Hour**: Extract the hour part from a timestamp.
+- **Quarter**: Determine the quarter of the year from a date.
+- **Day**: Extract the day part from a date.
+- **Group By**: Aggregate data based on specified columns.
+- **Order By**: Sort data in ascending or descending order.
+- **Limit**: Restrict the number of records returned by a query.
+- **Count**: Count the number of rows in a dataset.
+- **Distinct**: Select unique values from a dataset.
+- **CTE (Common Table Expressions)**: Simplify complex queries and improve readability.
+- **Partition**: Divide result sets into partitions to perform calculations on each subset.
 
-**Power BI Visualization:**
+## Power BI Visualization
 
-Data Cleaning: Prepare and clean data to ensure accuracy and consistency.
-Data Modelling: Create relationships between different datasets for comprehensive analysis.
-Data Processing: Transform and manipulate data to suit analytical needs.
-Power Query: Extract, transform, and load data from various sources.
-Date Tables: Create date tables for time-based analysis.
-Time Intelligence Functions: Perform calculations over time periods (e.g., year-to-date, month-to-date).
-DAX (Data Analysis Expressions): Write formulas and expressions for advanced calculations.
-Date Function: Manipulate and analyze date values.
-Text Function: Handle text data within Power BI.
-Filter Function: Filter data based on specific conditions.
-Calculate: Modify the context of a calculation.
-SUM/ SUMX: Perform aggregation calculations.
-Creating KPIs (Key Performance Indicators): Measure and visualize key metrics for performance tracking.
-Key Analysis Components:
+- **Data Cleaning**: Prepare and clean data to ensure accuracy and consistency.
+- **Data Modelling**: Create relationships between different datasets for comprehensive analysis.
+- **Data Processing**: Transform and manipulate data to suit analytical needs.
+- **Power Query**: Extract, transform, and load data from various sources.
+- **Date Tables**: Create date tables for time-based analysis.
+- **Time Intelligence Functions**: Perform calculations over time periods (e.g., year-to-date, month-to-date).
+- **DAX (Data Analysis Expressions)**: Write formulas and expressions for advanced calculations.
+- **Date Function**: Manipulate and analyze date values.
+- **Text Function**: Handle text data within Power BI.
+- **Filter Function**: Filter data based on specific conditions.
+- **Calculate**: Modify the context of a calculation.
+- **SUM/ SUMX**: Perform aggregation calculations.
+- **Creating KPIs (Key Performance Indicators)**: Measure and visualize key metrics for performance tracking.
 
-**Loan Categorization:**
+
+**Key Analysis Components:**
+
+**1.Loan Categorization:**
 Good Loans: Loans being repaid on schedule.
 Bad Loans: Loans that are delinquent or in default.
 
-**DTI Analysis:**
+**2.DTI Analysis:**
 Assessing borrowers' financial health and repayment capacity.
 Comparing DTI ratios for different loan categories and amounts.
 
-**Sanctioned vs. Repayment Amount:**
+**3.Sanctioned vs. Repayment Amount:**
 Comparing the amounts sanctioned by the bank with the actual amounts being repaid.
 Identifying discrepancies or trends in repayment behaviour.
 This comprehensive report leverages SQL for robust data handling and Power BI for insightful visualizations, providing valuable insights into loan performance and borrower behaviour, thereby aiding in informed decision-making and effective risk management for the bank.
