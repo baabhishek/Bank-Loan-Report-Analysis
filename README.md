@@ -1,5 +1,7 @@
 # Bank-Loan-Report-Analysis
 This report focuses on the analysis of bank loans, categorizing them as Good Loans or Bad Loans. It includes an analysis of the Debt-to-Income (DTI) ratio concerning both the sanctioned and repayment amounts. The data is processed using SQL for in-depth querying and analysis, and visualized through Power BI for clear and comprehensive insights.
+![shutterstock_1421070104](https://github.com/baabhishek/Bank-Loan-Report-Analysis/assets/165395155/caa18e00-aeb6-4cb4-8f84-4d45c551db6c)
+
 
 This report provides an in-depth analysis of bank loans, focusing on categorizing them into Good Loans and Bad Loans, as well as examining the Debt-to-Income (DTI) ratio in relation to the sanctioned and repayment amounts. The analysis is conducted using SQL for data processing and Power BI for visualization.
 
@@ -62,9 +64,15 @@ Identifying discrepancies or trends in repayment behaviour.
 This comprehensive report leverages SQL for robust data handling and Power BI for insightful visualizations, providing valuable insights into loan performance and borrower behaviour, thereby aiding in informed decision-making and effective risk management for the bank.
 
 **Bank Dashboard:**
-1. Summary
+1. Summary:
+  <img width="1232" alt="Screenshot 2567-06-25 at 11 41 40 AM" src="https://github.com/baabhishek/Bank-Loan-Report-Analysis/assets/165395155/9dd7529f-e034-4552-88a7-9e79f5582cd9">
+
 2. Overview
+   <img width="1228" alt="Screenshot 2567-06-25 at 11 41 52 AM" src="https://github.com/baabhishek/Bank-Loan-Report-Analysis/assets/165395155/1d1d9dc1-0632-4a6f-8973-142f4c2b8598">
+
 3. Loan Details
+   <img width="1228" alt="Screenshot 2567-06-25 at 11 42 04 AM" src="https://github.com/baabhishek/Bank-Loan-Report-Analysis/assets/165395155/4274a9cc-8925-4e9d-9a5c-b92b67818a76">
+
 
 
 Here is the access to Live Power BI DashBoard:
