@@ -1,7 +1,6 @@
 # Bank-Loan-Report-Analysis
 This report focuses on the analysis of bank loans, categorizing them as Good Loans or Bad Loans. It includes an analysis of the Debt-to-Income (DTI) ratio concerning both the sanctioned and repayment amounts. The data is processed using SQL for in-depth querying and analysis, and visualized through Power BI for clear and comprehensive insights.
-![shutterstock_1421070104](https://github.com/baabhishek/Bank-Loan-Report-Analysis/assets/165395155/caa18e00-aeb6-4cb4-8f84-4d45c551db6c)
-
+![SBT-cuts-lending-rates](https://github.com/baabhishek/Bank-Loan-Report-Analysis/assets/165395155/4f9e5099-5fa1-4b90-9b2d-c51c637f3bda)
 
 This report provides an in-depth analysis of bank loans, focusing on categorizing them into Good Loans and Bad Loans, as well as examining the Debt-to-Income (DTI) ratio in relation to the sanctioned and repayment amounts. The analysis is conducted using SQL for data processing and Power BI for visualization.
 
