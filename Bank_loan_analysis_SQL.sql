@@ -1,5 +1,5 @@
----Bank Loan Data Analysis-----
---- Financial Data Analysis Integrated with SQL & Power BI ----
+---Bank Loan Data Analysis----
+--- Financial Data Analysis Integrated with SQL & Power BI ---
 
 -------------------------------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ USE Bank_loan_data_analysis
 
 --Importing the data from Flat file(Table Name: bank_loan_customer_data)
 
-select * from bank_loan_customer_data
+Select * from bank_loan_customer_data
 
 -- Data Imported succefully to our SQL Environment and now lets starts the firing our sql
 -- queries based on business analysis and some of problem statements
@@ -23,7 +23,7 @@ select * from bank_loan_customer_data
 --specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track 
 -- changes Month-over-Month (MoM).
 
-select count(id) as 'Total Loan Application' 
+Select count(id) as 'Total Loan Application' 
 from bank_loan_customer_data
 
 -- Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. 
