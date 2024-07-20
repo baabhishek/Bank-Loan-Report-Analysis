@@ -75,4 +75,4 @@ This comprehensive report leverages SQL for robust data handling and Power BI fo
 
 
 Here is the access to Live Power BI DashBoard:
-https://app.powerbi.com/view?r=eyJrIjoiMDA4ZDkzNTQtNmY2OC00MGE5LWJiNmItNGRkOWU2YjJhNmUyIiwidCI6IjViNDYyNjIyLWI0ZDktNDk5OC05NGQ1LWNiMWJjMTljN2Y5NiJ9&pageName=ReportSection
+https://shorturl.at/oxpH7
